@@ -1,0 +1,16 @@
+{
+  "First_Name": "Trish",
+  "Last_Name": "Mathers",
+  "Email_Address": "tmathers@email.com",
+  "Skills": [
+    "SAS (base SAS and Macros)",
+    "SQL",
+    "Linear and logistic regressions",
+    "Decision trees",
+    "Support vector machines (SVM)",
+    "k-means clustering",
+    "Principal component analysis (PCA)",
+    "Excel",
+    "Google Sheets"
+  ]
+}

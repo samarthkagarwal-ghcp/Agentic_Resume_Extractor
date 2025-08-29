@@ -1,0 +1,15 @@
+{
+  "First_Name": "Terrence",
+  "Last_Name": "Coleman",
+  "Email_Address": "tcoleman@email.com",
+  "Skills": [
+    "Python (NumPy, Pandas, Scikit-learn, Flask)",
+    "SAS",
+    "SQL (Redshift, MySQL)",
+    "ElasticSearch",
+    "Recommendation Engines",
+    "Customer Segmentation & Retention Models",
+    "Price Optimization",
+    "Productionizing Models"
+  ]
+}
